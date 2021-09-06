@@ -1,0 +1,181 @@
+body{
+background: url(../resimler/arkaplan.png);
+font-family: "Trebuchet Ms";
+font-size: 0.9em;
+margin-top: 2px;
+margin-bottom: 0px;
+color: #222;
+}
+
+#sayfa{
+	width: 950px;
+	margin: 0px auto;
+
+}
+#menu{
+	background:#006633;
+	padding: 5px 5px 5px 15px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #333;
+	border-color: #ccc;
+}
+#menu ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+#menu ul li{
+	float:left;
+}
+
+.temizle{
+	clear:both;
+}
+#menu ul li a{
+	display:block;
+	line-height: 28px;
+	border: 1px solid #fff;
+	background: #4b5d64;
+	color: #fff;
+	padding: 0px 15px;
+	text-decoration: none;
+	font-weight:bold;
+	margin-right: 5px;
+}
+#menu ul li a:hover{
+	color: #000;
+	border: 1px solid #000;
+	background:#d6edc8;
+	}
+#icerik{
+		background: #dee8ed;
+		padding: 5px;	
+		border: 1px solid #fff;
+}
+#iceriksol{
+		width: 220px;
+		float: left;
+	}	
+#iceriksag{
+		width:705px;
+		float:right;
+		padding:5px;
+	}
+#solmenu{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}	
+#solmenu li a{
+	display:block;
+	line-height: 35px;
+	padding-left: 35px;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	margin-bottom: 5px;
+	background: #4b5d64;
+	border: 1px solid #fff;
+}
+#solmenu li a:hover{
+    color: #000;
+	border: 1px solid #000;
+	background:#d6edc8;
+}
+.haberkutu{
+	border: 1px solid #ccc;
+	border-bottom: 2px solid #333;
+	background: #f9fafb;
+	padding: 5px;
+	margin: 0px 5px 5px 0px;
+	font-size: small;
+}
+.haberkutu h3{
+	margin: 0px;
+}
+.haberkutu img{
+	float:left;
+	padding: 5px;
+	border: 1px solid #ccc;
+	margin-right: 5px;
+}
+#iceriksag{
+	background: #fff;
+	padding: 5px;
+	color: #222;
+	padding-top:0px;
+}
+#alt{
+	background:#006633;
+	color: #fff;
+	font-size: small;
+	padding: 10px;
+}
+#tarihResim {
+	float:left;
+	border: 1px solid #ccc;
+	margin-right: 5px;
+}
+#tarih2Resim{
+	float:right;
+	border: 1px solid #ccc;
+	margin-left: 5px;
+}
+#cografya1Resim{
+	float:left;
+	border: 1px solid #ccc;
+	margin-right: 5px;
+}
+#cografya2Resim{
+	float:right;
+	border: 1px solid #ccc;
+	margin-right: 5px;
+}
+#turizm1Resim{
+	float:left;
+	border: 1px solid #ccc;
+	margin-right:5px;
+}
+#turizm2Resim{
+	float:right;
+	border: 1px solid #ccc;
+	margin-left:5px;
+}
+#turizm3Resim{
+	float:left;
+	border: 1px solid #ccc;
+	margin-right:5px;
+}
+#Ulasim1Resim{
+float:left ;
+border: 1px solid #ccc;
+margin-right:5px;
+}
+#Ulasim2Resim{
+float:right ;
+border: 1px solid #ccc;
+margin-left:5px;
+}
+#Egitim1Resim{
+	float:left;
+border: 1px solid #ccc;
+margin-right:5px;
+}
+#Kultur1Resim{
+		float:left;
+border: 1px solid #ccc;
+margin-right:5px;
+}
+#Kultur2Resim{
+		float:right;
+border: 1px solid #ccc;
+margin:5px;
+}
+#Kultur3Resim{
+		float:left;
+border: 1px solid #ccc;
+margin:5px;
+}
+#adana1Resim{
+	margin:5px;
+}
